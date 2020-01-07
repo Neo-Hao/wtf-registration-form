@@ -1,4 +1,4 @@
-# Learn Flask in a scientific way
+# How To Use Flask-WTForms
 
 This repository contains the code for the tutorial [How To Use Flask-WTForms: Make form validation a breeze](https://medium.com/better-programming/how-to-use-flask-wtforms-faab71d5a034).
 
